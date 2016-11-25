@@ -1,0 +1,2 @@
+git@bitbucket.org:anassb/mydeps.git
+git@github.com:anass-b/MyDeps.git
