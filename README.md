@@ -1,5 +1,4 @@
-# Into
-Very simple dependency manager based on Git, created originally to serve as a C++ dependency manager.
+# MyDeps - Very simple dependency manager based on Git, created originally to serve as a C++ dependency manager.
 
 # Usage
 Simply clone this project somewhere and add it to your path.
