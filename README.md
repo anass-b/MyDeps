@@ -1,6 +1,6 @@
 # Into
 MyDeps can serve as a simple language agnostic dependency manager based on git.
-This project was developed originally developed to serve as simple C++ dependency manager.
+This project was developed originally to serve as simple C++ dependency manager.
 
 # Usage
 Simply clone this project somewhere and add it to your path.
