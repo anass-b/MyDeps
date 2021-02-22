@@ -9,8 +9,8 @@ When not running within powershell, the scripts can be run like: `powershell MyD
 
 ## Example `mydeps.txt` file
 ```
-git@bitbucket.org:anassb/project1.git;MyProject1;my-branch
-git@github.com:anass-b/project2.git;MyProject2;master
+git@bitbucket.org:eli-ba/project1.git;MyProject1;my-branch
+git@github.com:eli-ba/project2.git;MyProject2;master
 ```
 
 ## Scripts
