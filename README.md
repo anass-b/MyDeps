@@ -7,6 +7,12 @@ Created originally to serve as a C++ dependency manager.
 Simply clone this project somewhere and add it to your path.
 When not running within powershell, the scripts can be run like: `powershell MyDeps-Install.ps1`
 
+## Example `mydeps.txt` file
+```
+git@bitbucket.org:anassb/project1.git;MyProject1;my-branch
+git@github.com:anass-b/project2.git;MyProject2;master
+```
+
 ## Scripts
 ### `MyDeps-Install`
 
@@ -20,9 +26,3 @@ The primary purpose of this script is to help keep the vendor folder clean and s
 
 ### `MyDeps-DeleteZombies`
 The same like `MyDeps-Zombies`, except that it deletes the folders.
-
-## Example `mydeps.txt` file
-```
-git@bitbucket.org:anassb/project1.git;MyProject1;my-branch
-git@github.com:anass-b/project2.git;MyProject2;master
-```
