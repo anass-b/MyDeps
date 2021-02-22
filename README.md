@@ -1,4 +1,4 @@
-# MyDeps - Very simple dependency manager based on Git
+# MyDeps - Simple dependency manager based on Git
 
 Created originally to serve as a C++ dependency manager.
 
